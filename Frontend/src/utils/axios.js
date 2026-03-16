@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://eventora-event-booking-system.onrender.com',
+    baseURL: 'https://eventora-event-booking-system.onrender.com/api',
 });
 
 api.interceptors.request.use((config) => {
