@@ -20,7 +20,6 @@ A full-stack **Event Booking Platform** that allows users to explore events, boo
 **Frontend:**
 
 * React.js
-* Redux (if used)
 * Tailwind CSS / CSS
 
 **Backend:**
